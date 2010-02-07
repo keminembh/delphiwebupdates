@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2010/02/07 00:50:23.479.pas,C:\Users\danielwildt\Documents\RAD Studio\Projects\Unit2.pas=C:\dev\opensource\VersionUpdate\UVersionUpdate.pas</Transaction>
+    <Transaction>2010/02/07 00:50:35.911.pas,C:\Users\danielwildt\Documents\RAD Studio\Projects\Unit1.pas=C:\dev\opensource\VersionUpdate\USampleForm.pas</Transaction>
+    <Transaction>2010/02/07 00:50:35.911.dfm,C:\Users\danielwildt\Documents\RAD Studio\Projects\Unit1.dfm=C:\dev\opensource\VersionUpdate\USampleForm.dfm</Transaction>
+    <Transaction>2010/02/07 00:50:46.891.dproj,C:\Users\danielwildt\Documents\RAD Studio\Projects\Project1.dproj=C:\dev\opensource\VersionUpdate\VersionUpdateDemo.dproj</Transaction>
+    <Transaction>2010/02/07 02:10:58.962.pas,C:\dev\opensource\VersionUpdate\UInfoVersao.pas=C:\dev\opensource\VersionUpdate\UVersionInfo.pas</Transaction>
+  </Transactions>
+</BorlandProject>
